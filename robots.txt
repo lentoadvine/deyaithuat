@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oocaibeeb.indoorski-arnhem.nl/sitemap.xml
